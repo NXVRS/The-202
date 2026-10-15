@@ -1,6 +1,6 @@
 /**
  * dashboard.js
- * Owner dashboard logic for Love Over Coffee.
+ * Owner dashboard logic for The 202 cafe & kitchen.
  * Talks ONLY to the Apps Script backend via window.LOC_CONFIG.API_URL.
  */
 'use strict';
