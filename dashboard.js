@@ -1101,7 +1101,7 @@ el.rewardTierForm.addEventListener('submit', function (e) {
       // el.infoPushConfigured.textContent = data.info.pushConfigured ? 'Configured' : 'Not configured (in-app only)';
       el.infoOrderHours.textContent = data.info.orderHours + ' hour(s)';
 
-      el.cafeNameLabel.textContent = data.settings.CAFE_NAME || 'Love Over Coffee';
+      el.cafeNameLabel.textContent = data.settings.CAFE_NAME || 'The 202 Cafe & Kitchen';
       state.currency = data.info.currency || state.currency;
     }).catch(function (err) { showToast(err.message, 'error'); });
   }
