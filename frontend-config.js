@@ -9,5 +9,5 @@
  * SPREADSHEET_ID in any frontend file.
  */
 window.LOC_CONFIG = Object.freeze({
-  API_URL: 'https://script.google.com/macros/s/AKfycbzR0WcQNCQVpP7Gf9sit84Gj7gQ-V6twv1luR6_yxfC0yOTn9mgc1AJnUdIK354TscSQQ/exec'
+  API_URL: 'https://script.google.com/macros/s/AKfycbycVh-zebZKT6Bw_Xm0i1CHrUQ6RdI2AEgEw9jeyanmdiYx511OVgrlukYq1af0BCFRSw/exec'
 });
