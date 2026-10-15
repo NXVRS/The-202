@@ -1,6 +1,6 @@
 /**
  * script.js
- * Customer site logic for Love Over Coffee.
+ * Customer site logic for The 202 cafe & kitchen.
  * Talks ONLY to the Apps Script backend via window.LOC_CONFIG.API_URL.
  *
  * NOTE: Notifications.gs source was not available while writing this file.
